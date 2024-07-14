@@ -1,0 +1,10 @@
+.user-photos-list {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    width: fit-content;
+    margin: auto;
+}
